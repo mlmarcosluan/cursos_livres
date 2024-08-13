@@ -1,6 +1,7 @@
 # Curso de Introdução ao Pandas no Python
 
 Este curso, baseado no vídeo Introdução ao Pandas no Python, cobre os conceitos fundamentais do Pandas, uma biblioteca poderosa para análise de dados em Python.
+[Link do Curso.](https://www.youtube.com/watch?v=C0aj3FjN5e0)
 
 ## Conteúdo do Curso
 
